@@ -1,0 +1,35 @@
+name: Feature request
+description: Propose a focused capability or improvement
+title: "[Feature]: "
+labels: []
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What concrete problem or failure mode should this solve?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed change
+      description: Describe the smallest useful change and its intended users.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence or examples
+      description: Link reproductions, policies, benchmarks, prior art, or operational examples.
+  - type: textarea
+    id: tradeoffs
+    attributes:
+      label: Security and operational tradeoffs
+      description: Note trust-boundary, compatibility, failure-mode, or maintenance implications.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered

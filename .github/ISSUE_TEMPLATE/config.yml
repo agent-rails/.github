@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Security vulnerability
+    url: https://github.com/agent-rails
+    about: Open the affected repository, use its Security tab, and select Report a vulnerability.
