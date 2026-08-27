@@ -1,6 +1,6 @@
 # Contributing
 
-Agent Rails projects are early systems work for reliable and governed AI agents. Contributions are welcome when they improve evidence, safety, interoperability, or operational usefulness.
+Agent Rails is a collection of independently maintained personal tools and research projects for reliable and governed AI agents. Maturity and scope vary by repository. Contributions are welcome when they improve evidence, safety, interoperability, or operational usefulness, but an accepted contribution does not imply a product roadmap or support commitment.
 
 High-value contributions include:
 

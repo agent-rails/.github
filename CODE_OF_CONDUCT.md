@@ -2,7 +2,7 @@
 
 ## Our standard
 
-Participation in Agent Rails projects should be respectful, technically honest, and constructive. Contributors are expected to:
+Participation in these independently maintained project spaces should be respectful, technically honest, and constructive. Contributors are expected to:
 
 - engage with ideas and evidence rather than attacking people;
 - communicate limitations, uncertainty, and conflicts of interest clearly;
@@ -14,11 +14,11 @@ Harassment, discrimination, threats, deliberate disruption, doxxing, sexualized 
 
 ## Scope
 
-This policy applies in repositories, issues, pull requests, discussions, and other spaces where someone represents an Agent Rails project or community.
+This policy applies in repositories, issues, pull requests, discussions, and other spaces where someone represents an Agent Rails project.
 
 ## Enforcement
 
-Maintainers may edit or remove content, reject contributions, restrict participation, or ban participants when conduct is harmful to the project or community.
+The maintainer may edit or remove content, reject contributions, restrict participation, or ban participants when conduct is harmful to a project or its participants.
 
 Report conduct concerns privately through the contact options at [techbots.dev/contact](https://techbots.dev/contact). Do not place sensitive personal information in a public issue. Reports will be reviewed with discretion, and information will be shared only as needed to assess and respond.
 

@@ -1,8 +1,8 @@
 # Governance
 
-Agent Rails projects use a maintainer-led, evidence-driven model.
+Agent Rails contains personal tools and research projects maintained by Franklin Okpako (`@voltagebots`). It is not a foundation, standards body, or staffed product organization.
 
-Maintainers set project scope, review changes, manage releases, and make final decisions when consensus is not reached. Design decisions should normally be discussed in public issues or pull requests so their rationale remains discoverable.
+The maintainer sets project scope, reviews changes, manages releases, and makes final decisions. Design decisions should normally be discussed in public issues or pull requests so their rationale remains discoverable.
 
 Decisions prioritize:
 
@@ -12,6 +12,6 @@ Decisions prioritize:
 4. cross-vendor and harness-independent interfaces;
 5. small components that remain useful independently.
 
-Regular contributors may be invited to triage or maintain projects based on sustained, constructive participation and demonstrated judgment. Maintainer access may be removed when it is inactive or no longer appropriate.
+Projects are maintained on a best-effort basis. Contributions, feature requests, and issue reports are welcome, but there is no guaranteed roadmap, response time, or long-term support commitment unless a repository explicitly states otherwise.
 
 Security-sensitive discussions follow the private process in [SECURITY.md](SECURITY.md).
